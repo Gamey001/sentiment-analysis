@@ -1,8 +1,5 @@
 # Review Sentiment
-
-A reproduction and extension of Rob Mulla's Kaggle notebook
-[Sentiment Analysis Python 🤗 (YouTube Tutorial)](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial)
-(Apache 2.0), run on the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) dataset.
+Sentinment Analysis run on the [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) dataset.
 
 ## Problem
 
